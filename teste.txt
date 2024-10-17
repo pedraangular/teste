@@ -1,0 +1,5 @@
+1) O comando git init cria um novo repositório do Git
+2) o status dos arquivos em seu repositório Git, identificando quais arquivos foram modificados,
+adicionados ou excluídos desde o último commit.
+3) O comando git add é muito famoso por “adicionar conteúdo” (propor uma mudança qualquer, seja ela alterar, adicionar ou remover um conteúdo)
+4) 
